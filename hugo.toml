@@ -1,4 +1,4 @@
-title = "Nathan's Blog"
+title = "Nathan's Blog" # We actually use Languages.LANG.params.sitename
 baseURL = 'https://nrzimmer.com/'
 
 # This is what goes in <html lang="">
@@ -74,7 +74,7 @@ theme = "hugo-blog-awesome"
     weight = 30
 
 [Languages.en-us.params]
-  sitename = "Awesome hugo blog"
+  sitename = "Nathan's Blog"
   defaultColor = "dark" # set color mode: dark, light, auto
   # Setting it to 'auto' applies the color scheme based on the visitor's device color preference.If you don't specify anything, ignore this parameter, or leave it blank,
   # the default value is set to 'auto'.
@@ -138,7 +138,7 @@ theme = "hugo-blog-awesome"
     weight = 30
 
 [Languages.pt-br.params]
-  sitename = "Awesome hugo blog"
+  sitename = "Blog do Natanael"
   defaultColor = "dark" # set color mode: dark, light, auto
   # Setting it to 'auto' applies the color scheme based on the visitor's device color preference.If you don't specify anything, ignore this parameter, or leave it blank,
   # the default value is set to 'auto'.
